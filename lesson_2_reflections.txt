@@ -6,3 +6,25 @@ If there is no repository already defined, we need to initialize it.
 2)How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area contains all the files that will be commited using the next commit statement. 
 It Working directory is the folder that contains all files in the repository
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+After making a logical change to the file, add it to the staging area.
+So the staging area will have one change.
+Commit the change before adding any more files to staging area
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If one is making some experimental changes to the file, whose success is not confirmed, then branches helps
+Branches also helps in comparing different approaches to solving the same problem.
+Branches provide the ability to retain the original working file and make additions to it even when the branches are being developed.
+
+5) How do the diagrams help you visualize the branch structure?
+Helps understand the flow of changes
+Helps recall the various branches and where we are at currently
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging two branches, modifications made independantly can be combined.
+We use a diagram to represent it so as to easily understand the flow
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Get most of the work done.
+Cons: Even for minor changes/differences it asks for merging manually.
