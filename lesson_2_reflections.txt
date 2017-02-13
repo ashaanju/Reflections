@@ -2,3 +2,7 @@
 
 A new .git file is created. We need a repository to keep track of changes. 
 If there is no repository already defined, we need to initialize it.
+
+2)How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area contains all the files that will be commited using the next commit statement. 
+It Working directory is the folder that contains all files in the repository
