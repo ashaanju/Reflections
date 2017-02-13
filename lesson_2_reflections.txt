@@ -1,0 +1,4 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+A new .git file is created. We need a repository to keep track of changes. 
+If there is no repository already defined, we need to initialize it.
