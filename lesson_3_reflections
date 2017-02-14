@@ -15,3 +15,9 @@ Fork is used to clone repositor from github to github.
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 It is helpful when it comes to updating the remote copy with the latest local copy
 It helps in fast merging
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I will use Git and GitHub to keep track of changes made to the files. 
+GitHub will help me collaborate with others, by helping to make independant changes and track them.
+Tracking changes and merging will be easier with GitHub
+The learning curve for Git and GitHub is steep and so getting used to it will take time.
