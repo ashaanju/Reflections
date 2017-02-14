@@ -21,3 +21,9 @@ I will use Git and GitHub to keep track of changes made to the files.
 GitHub will help me collaborate with others, by helping to make independant changes and track them.
 Tracking changes and merging will be easier with GitHub
 The learning curve for Git and GitHub is steep and so getting used to it will take time.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It is better to make changes to a separate branch when we are making experiemental changes that may not work out.
+It is also better to use separate branch if the changes made needs to be approved by someone else.
+Working on separate branch helps to ensure master is working and only include working code/product in the master files.
+However working on separate branches can result in merge conflict that needs to be resolved before merge can be complete.
