@@ -7,3 +7,7 @@ Git automatically stay up-to-date with your remote repository?
 You might not want all the changes made in the remote repository implemented in your local repository.
 The changes might be made by someone else working on the remote repository and might not be in the same development phase as your local files.
 
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches are used to create alternate development paths from an existing repository. 
+Forks are used in github to copy a repository
+Clones can be used between any two repository
