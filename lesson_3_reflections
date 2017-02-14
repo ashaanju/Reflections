@@ -8,6 +8,6 @@ You might not want all the changes made in the remote repository implemented in 
 The changes might be made by someone else working on the remote repository and might not be in the same development phase as your local files.
 
 3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
-Branches are used to create alternate development paths from an existing repository. 
-Forks are used in github to copy a repository
-Clones can be used between any two repository
+Branches are used to create alternate development paths from an existing repository. Branches are made on a single repository
+Clones can be used to copy one repositor from one location to another. The two locations can be local or one local and one remote.
+Fork is used to clone repositor from github to github.
