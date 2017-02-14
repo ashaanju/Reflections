@@ -11,3 +11,7 @@ The changes might be made by someone else working on the remote repository and m
 Branches are used to create alternate development paths from an existing repository. Branches are made on a single repository
 Clones can be used to copy one repositor from one location to another. The two locations can be local or one local and one remote.
 Fork is used to clone repositor from github to github.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+It is helpful when it comes to updating the remote copy with the latest local copy
+It helps in fast merging
